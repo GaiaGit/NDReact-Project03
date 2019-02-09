@@ -34,7 +34,7 @@ $ yarn start
 
 
 ## PROJECT SPECIFICATIONS
-## Testedon Android
+* Tested on Android.
 
 ## Additional Features
 ### REGISTER
