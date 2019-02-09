@@ -37,6 +37,5 @@ $ yarn start
 * Tested on Android.
 
 ## Additional Features
-### REGISTER
-Some form validations were included.
-Pie chart is displayed for quiz results.
+* Some form validations were included.
+* Pie chart is displayed for quiz results.
