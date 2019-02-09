@@ -55,7 +55,7 @@ class DeckAdd extends Component {
       dispatch(addDeck(newDeck));
       apiAddDeck(newDeck);
       this.setState({deckName: ''});
-      this.props.navigation.navigate('DeckList');
+      this.props.navigation.navigate('DeckView', { title: deck.deckName, questions: [] });
     }
   }
 

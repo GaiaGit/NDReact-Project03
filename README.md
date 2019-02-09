@@ -30,7 +30,7 @@ $ yarn install
 ~~~
 $ yarn start
 ~~~
-* Use Expo to open de app in a mobile device
+* Use Expo to open the app in a mobile device
 
 
 ## PROJECT SPECIFICATIONS
